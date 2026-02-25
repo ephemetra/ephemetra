@@ -1,6 +1,6 @@
 <h2 align="center">👋  I'm Ephemetra, passionate about DevOps.</h2>
 <p align="center">
-  <a href="http://codebrew.fun/">Blog</a> •
+  <a href="http://codebrew.fun/">Blog</a>
 </p>
 
 
@@ -27,14 +27,4 @@
 
 
 
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=dark" alt="Languages" />
-</p>
-
----
 
