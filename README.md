@@ -1,9 +1,7 @@
-<h2 align="center">👋  I'm Ephemetra, passionate about DevOps.</h2>
-<p align="center">
-  <a href="http://codebrew.fun/">Blog</a>
-</p>
-
-
+### 🌐 我的博客
+<a href="http://codebrew.fun/">
+  <img src="https://img.shields.io/badge/Blog-CodeBrew-blue?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
+</a>
 
 ### 🛠️ 我的技术栈
 
